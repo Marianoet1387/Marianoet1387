@@ -4,4 +4,4 @@
 - 📫 How to reach me ... marianoeduardotechera@gmail.com
 
 Languages and Tools:
-html-css-scss-boostrap
+html-css-scss-Bootstrap
